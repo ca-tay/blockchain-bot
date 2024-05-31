@@ -8,7 +8,7 @@ const client = new Client({
   intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES]
 });
 
-const URL = 'https://bvclockchain-findof1s-projects.vercel.app';
+const URL = 'https://bvc-blockchain.vercel.app';
 
 // Yeah it's not too clean, this was rushed. I will make the command handler later
 
